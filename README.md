@@ -1,6 +1,3 @@
-Claro, vou criar um README básico para o seu aplicativo de cálculo de média em Java utilizando Swing. Aqui está um exemplo:
-
----
 
 # Aplicativo de Cálculo de Média
 
